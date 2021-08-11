@@ -3,6 +3,8 @@ javascript{
 	# =           holaaaaaaaa          =
 	# ===================================
 	
-	
+	.location{
+		holasdawdfn
+	}
 	
 }
